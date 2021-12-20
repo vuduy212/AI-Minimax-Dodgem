@@ -1,0 +1,33 @@
+C:\Users\tuxedo\Documents\Visual Studio 2005\Projects\Dodgem\Dodgem\bin\Debug\Dodgem.exe
+C:\Users\tuxedo\Documents\Visual Studio 2005\Projects\Dodgem\Dodgem\bin\Debug\Dodgem.pdb
+C:\Users\tuxedo\Documents\Visual Studio 2005\Projects\Dodgem\Dodgem\bin\Debug\Dodgem.xml
+C:\Users\tuxedo\Documents\Visual Studio 2005\Projects\Dodgem\Dodgem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tuxedo\Documents\Visual Studio 2005\Projects\Dodgem\Dodgem\obj\Debug\Dodgem.Form1.resources
+C:\Users\tuxedo\Documents\Visual Studio 2005\Projects\Dodgem\Dodgem\obj\Debug\Dodgem.Resources.resources
+C:\Users\tuxedo\Documents\Visual Studio 2005\Projects\Dodgem\Dodgem\obj\Debug\Dodgem.vbproj.GenerateResource.Cache
+C:\Users\tuxedo\Documents\Visual Studio 2005\Projects\Dodgem\Dodgem\obj\Debug\Dodgem.exe
+C:\Users\tuxedo\Documents\Visual Studio 2005\Projects\Dodgem\Dodgem\obj\Debug\Dodgem.xml
+C:\Users\tuxedo\Documents\Visual Studio 2005\Projects\Dodgem\Dodgem\obj\Debug\Dodgem.pdb
+C:\Users\tuxedo\Documents\Visual Studio 2005\Projects\Dodgem\Dodgem\obj\Debug\Dodgem.how2play.resources
+D:\VB.NET\bai VB.net\Dodgem\Dodgem\obj\Debug\Dodgem.exe
+D:\VB.NET\bai VB.net\Dodgem\Dodgem\obj\Debug\Dodgem.xml
+D:\VB.NET\bai VB.net\Dodgem\Dodgem\obj\Debug\Dodgem.pdb
+D:\VB.NET\bai VB.net\Dodgem\Dodgem\bin\Debug\Dodgem.exe
+D:\VB.NET\bai VB.net\Dodgem\Dodgem\bin\Debug\Dodgem.pdb
+D:\VB.NET\bai VB.net\Dodgem\Dodgem\bin\Debug\Dodgem.xml
+D:\VB.NET\bai VB.net\Dodgem\Dodgem\obj\Debug\ResolveAssemblyReference.cache
+D:\VB.NET\bai VB.net\Dodgem\Dodgem\obj\Debug\Dodgem.Form1.resources
+D:\VB.NET\bai VB.net\Dodgem\Dodgem\obj\Debug\Dodgem.how2play.resources
+D:\VB.NET\bai VB.net\Dodgem\Dodgem\obj\Debug\Dodgem.Resources.resources
+D:\VB.NET\bai VB.net\Dodgem\Dodgem\obj\Debug\Dodgem.vbproj.GenerateResource.Cache
+D:\DoThiHuyen_k5h_tro choi Dodgem\Dodgem\Dodgem\obj\Debug\Dodgem.exe
+D:\DoThiHuyen_k5h_tro choi Dodgem\Dodgem\Dodgem\obj\Debug\Dodgem.xml
+D:\DoThiHuyen_k5h_tro choi Dodgem\Dodgem\Dodgem\obj\Debug\Dodgem.pdb
+D:\DoThiHuyen_k5h_tro choi Dodgem\Dodgem\Dodgem\bin\Debug\Dodgem.exe
+D:\DoThiHuyen_k5h_tro choi Dodgem\Dodgem\Dodgem\bin\Debug\Dodgem.pdb
+D:\DoThiHuyen_k5h_tro choi Dodgem\Dodgem\Dodgem\bin\Debug\Dodgem.xml
+D:\DoThiHuyen_k5h_tro choi Dodgem\Dodgem\Dodgem\obj\Debug\ResolveAssemblyReference.cache
+D:\DoThiHuyen_k5h_tro choi Dodgem\Dodgem\Dodgem\obj\Debug\Dodgem.Form1.resources
+D:\DoThiHuyen_k5h_tro choi Dodgem\Dodgem\Dodgem\obj\Debug\Dodgem.how2play.resources
+D:\DoThiHuyen_k5h_tro choi Dodgem\Dodgem\Dodgem\obj\Debug\Dodgem.Resources.resources
+D:\DoThiHuyen_k5h_tro choi Dodgem\Dodgem\Dodgem\obj\Debug\Dodgem.vbproj.GenerateResource.Cache
